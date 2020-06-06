@@ -166,10 +166,9 @@
 
 - ## Books
 
-### 1- Book Name [link](https://summerofcode.withgoogle.com)
+### 1- Competitive Programmer’s Handbook [link](https://cses.fi/book/book.pdf)
 
-> - **_Book Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
-
+> - **_Book Description_** Theoretical knowledge of algorithms is important to competitive programmers. Typically, a solution to a problem is a combination of well-known techniques 
 - ## Blogs
 
 ### 1- Blog Name [link](https://summerofcode.withgoogle.com)
