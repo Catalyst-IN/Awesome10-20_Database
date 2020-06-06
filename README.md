@@ -18,8 +18,9 @@
 
 > - **_Channel Description_** There's always something to learn! Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!
 
-### 1- CodeWithHarry [link](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
-     >- ***Channel Description*** One of the best web development video contents.A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com. 
+### 3- CodeWithHarry [link](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+ >- ***Channel Description*** One of the best web development video contents.A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com. 
+
 ##  Courses
 ### 1- The Complete 2020 Web Development Bootcamp [link](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
