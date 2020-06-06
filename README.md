@@ -5,10 +5,10 @@
 
 - ##  Youtube Channels
 	### 1- CodeWithHarry [link](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
-     >- ***Channel Description***One of the best web development video contents.A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com. 
+     >- ***Channel Description*** One of the best web development video contents.A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com. 
 - ##  Courses
 	### 1- The Complete 2020 Web Development Bootcamp [link](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-     >- ***Course Description***A full-stack web developer course covering HTML, CSS, Javascript, Node, React, MongoDB and more! 
+     >- ***Course Description*** A full-stack web developer course covering HTML, CSS, Javascript, Node, React, MongoDB and more! 
 - ##  Books
 	### 1- Book Name [link](https://summerofcode.withgoogle.com)
      >- ***Book Description*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
