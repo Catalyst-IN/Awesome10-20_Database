@@ -1,6 +1,4 @@
-﻿
-
-## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
+﻿## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
 
 ![Issues](https://img.shields.io/github/issues/Catalyst-IN/Awesome10-20_Database)
 
@@ -184,7 +182,7 @@
 
 - ## Courses
 
-### 1-  Competitive Programmer's Core Skills [link](https://www.coursera.org/learn/competitive-programming-core-skills)
+### 1- Competitive Programmer's Core Skills [link](https://www.coursera.org/learn/competitive-programming-core-skills)
 
 > - **_Course Description_** During the course, you’ll learn everything needed to participate in real competitions — that’s the main goal. Along the way you’ll also gain useful skills for which competitive programmers are so highly valued by employers: ability to write efficient, reliable, and compact code, manage your time well when it’s limited, apply basic algorithmic ideas to real problems, etc.
 
