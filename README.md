@@ -51,10 +51,10 @@
 > - **_Book Description_** iA full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive.
 
 ### 2- JavaScript and JQuery: Interactive Front-End Web Development [link](https://www.pdfdrive.com/javascript-and-jquery-interactive-front-end-web-development-d184606066.html)
+
 > - **_Book Description_** Learn JavaScript and jQuery a nicer way This full-color book adopts a visual approach to teaching JavaScript & jQuery, showing you how to make web pages more interactive and interfaces more intuitive through the use of inspiring code examples, infographics, and photography.
 
 - ## Blogs
-
 
 ### 1- Tanay Pratap Blogs [link](https://tanaypratap.com/blogs)
 
@@ -63,7 +63,6 @@
 ### 1- Six Revisions [link](https://www.webfx.com/blog/web-design/)
 
 > - **_Blog Description_** I wouldn’t call Six Revisions a classical web development blog anymore, rather than a major news site for developers. Six Revisions publishes practical and useful articles for web developers and designers as well. Articles are published on a regular basis every 2-5 days.
-
 
 - ## Podcasts
 
