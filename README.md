@@ -32,11 +32,22 @@
 
 > - **_Course Description_** It is a free site in which certificates are provided after the submission of projects. Also many tasks are provided which helps in the understanding of the concepts.
 
+### 3- Intro to HTML and CSS [link](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+
+> - **_Course Description_** It is a 3 week course by udacity for begineers to get started with web development. You'll learn the fundamentals web development, along with best practices and professional problem-solving techniques using Developer Tools.
+
+### 4- Mozilla Developer Web Docs [link](https://developer.mozilla.org/en-US/docs/Learn)
+
+> - **_Course Description_** This is the best docs by mozilla developers for learning web development. MDN Docs has an excellent set of resources that can be used for development of web.
+
 ## Books
 
 ### 1- Book Name [link](https://summerofcode.withgoogle.com)
 
 > - **_Book Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+
+### 2- JavaScript and JQuery: Interactive Front-End Web Development [link](https://www.pdfdrive.com/javascript-and-jquery-interactive-front-end-web-development-d184606066.html)
+> - **_Book Description_** Learn JavaScript and jQuery a nicer way This full-color book adopts a visual approach to teaching JavaScript & jQuery, showing you how to make web pages more interactive and interfaces more intuitive through the use of inspiring code examples, infographics, and photography.
 
 - ## Blogs
 
