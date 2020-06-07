@@ -24,7 +24,15 @@
 
 ### 3- CodeWithHarry [link](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 
-> - **_Channel Description_** One of the best web development video contents.A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com.
+> - **_Channel Description_** One of the best web development video contents. A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com.
+
+### 4- Dev Ed [link](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+
+> - **_Channel Description_** A web developer with humour! Will make sure you're not bored. Teaches very well. You can find videos of Vanilla Javascript, React, Node, full stack applications. He'll also teach you designing part!
+
+### 5- Web Dev Simplified [link](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
+> - **_Channel Description_** Will not keep beating around the bush. Will get straight to the point. Can't stand long tutorials? This is the channel for you! Has tutorials on varied topics like HTML, CSS, Vanilla Javascript, React, Node, MongoDB, SQL. He'll teach you designing and testing as well!
 
 ## Courses
 
