@@ -19,15 +19,21 @@
 > - **_Channel Description_** There's always something to learn! Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!
 
 ### 3- CodeWithHarry [link](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
- >- ***Channel Description*** One of the best web development video contents.A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com. 
 
-##  Courses
+> - **_Channel Description_** One of the best web development video contents.A quick and to the point demo along with resources is provided. Source code and other resources are hosted on the website CodeWithHarry.com.
+
+## Courses
+
 ### 1- The Complete 2020 Web Development Bootcamp [link](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
->- ***Course Description*** A full-stack web developer course covering HTML, CSS, Javascript, Node, React, MongoDB and more! 
+> - **_Course Description_** A full-stack web developer course covering HTML, CSS, Javascript, Node, React, MongoDB and more!
+
 ### 2- freeCodeCamp [link](https://www.freecodecamp.org/learn)
->- ***Course Description*** It is a free site in which certificates are provided after the submission of projects. Also many tasks are provided which helps in the understanding of the concepts. 
-##  Books
+
+> - **_Course Description_** It is a free site in which certificates are provided after the submission of projects. Also many tasks are provided which helps in the understanding of the concepts.
+
+## Books
+
 ### 1- Book Name [link](https://summerofcode.withgoogle.com)
 
 > - **_Book Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
@@ -166,9 +172,9 @@
 
 - ## Books
 
-### 1- Book Name [link](https://summerofcode.withgoogle.com)
+### 1- Competitive Programmer’s Handbook [link](https://cses.fi/book/book.pdf)
 
-> - **_Book Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+> - **_Book Description_** Theoretical knowledge of algorithms is important to competitive programmers. Typically, a solution to a problem is a combination of well-known techniques
 
 - ## Blogs
 
