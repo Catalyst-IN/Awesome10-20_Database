@@ -1,12 +1,18 @@
-﻿## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
+﻿
+
+## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
 
 ![Issues](https://img.shields.io/github/issues/Catalyst-IN/Awesome10-20_Database)
+
 ![Pull Requests](https://img.shields.io/github/issues-pr/Catalyst-IN/Awesome10-20_Database)
+
 ![Forks](https://img.shields.io/github/forks/Catalyst-IN/Awesome10-20_Database)
+
 ![Stars](https://img.shields.io/github/stars/Catalyst-IN/Awesome10-20_Database)
+
 <br>
 
-# `Web Developement` </u>
+# `Web Development` </u>
 
 - ## Youtube Channels
 
@@ -40,9 +46,9 @@
 
 - ## Blogs
 
-### 1- Blog Name [link](https://summerofcode.withgoogle.com)
+### 1- Tanay Pratap Blogs [link](https://tanaypratap.com/blogs)
 
-> - **_Blog Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+> - **_Blog Description_** He writes about React and its ecosystem. He has a habit of sharing what he learns, trying to do it more via the written medium.
 
 - ## Podcasts
 
@@ -54,7 +60,7 @@
 
 <br>
 
-# `iOS Developement` </u>
+# `iOS Development` </u>
 
 - ## Youtube Channels
 
@@ -116,14 +122,16 @@
 
 <br>
 
-# `ML` </u>
+# `Machine Learning` </u>
 
 - ## Youtube Channels
 
 ### 1- Stanford cs229 [link](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 > - **_Channel Description_** It covers the theoritical part of machine learning by Andrew ng as it is free and easy available course best for the newcomers.
+
 ### 2- Edureka Machine Learning [link](https://www.youtube.com/watch?v=VCJdg7YBbAQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn&index=20)
+
 > - **_Channel Description_** if you are not able to understand from stanford cs229 then you can take help from this and clear the topics.
 
 - ## Courses
@@ -131,13 +139,14 @@
 ### 1- Machine learning (Coursera) [link](https://www.coursera.org/learn/machine-learning)
 
 > - **_Course Description_** If you want to learn ML in octave then this this the best course for you by Andrew ng
+
 ### 2- Python for Data Science and Machine Learning Bootcamp (Udemy) [link](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 
-> - **_Course Description_** it is the best course for beginners it firstly make you learn basics of python then implementation of it in practical as their are many projects which will help you to learn in easy manner. 
+> - **_Course Description_** it is the best course for beginners it firstly make you learn basics of python then implementation of it in practical as their are many projects which will help you to learn in easy manner.
 
 ### 3- Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy) [link](https://www.udemy.com/course/machinelearning/)
 
-> - **_Course Description_** it is the best course for beginners it firstly make you learn basics of python and R then implementation of it in practical in python and R both as their are many projects which will help you to learn in easy manner. 
+> - **_Course Description_** it is the best course for beginners it firstly make you learn basics of python and R then implementation of it in practical in python and R both as their are many projects which will help you to learn in easy manner.
 
 - ## Books
 
@@ -165,15 +174,19 @@
 
 > - **_Channel Description_** Algorithms, competitive programming, coding interviews. He makes educational videos and coding live streams.
 
-### 1- Rachit Jain [link](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured)
+### 2- Rachit Jain [link](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured)
 
 > - **_Channel Description_** He is nice competitive programmer from IIT Roorkee . An ex-employee of Microsoft he helps college students in coding interviews.
 
+### 3- Gaurav Sen [link](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
+> - **_Channel Description_** Algorithms and System Design is a powerful combination! Here are some things he talk about: 1) Competitive programming 2) System design 3) Artificial intelligence.
+
 - ## Courses
 
-### 1- Course Name [link](https://summerofcode.withgoogle.com)
+### 1-  Competitive Programmer's Core Skills [link](https://www.coursera.org/learn/competitive-programming-core-skills)
 
-> - **_Course Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+> - **_Course Description_** During the course, you’ll learn everything needed to participate in real competitions — that’s the main goal. Along the way you’ll also gain useful skills for which competitive programmers are so highly valued by employers: ability to write efficient, reliable, and compact code, manage your time well when it’s limited, apply basic algorithmic ideas to real problems, etc.
 
 - ## Books
 
