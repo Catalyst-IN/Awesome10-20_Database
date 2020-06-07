@@ -34,15 +34,15 @@
 
 ## Books
 
-### 1- Book Name [link](https://summerofcode.withgoogle.com)
+### 1- HTML and CSS: Design and Build Websites [link](https://www.amazon.in/gp/product/1118008189/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1118008189&linkCode=as2&tag=geeksforgeeks-21&linkId=1aae1163f92073f557900653e78da520)
 
-> - **_Book Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+> - **_Book Description_** iA full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive.
 
 - ## Blogs
 
-### 1- Blog Name [link](https://summerofcode.withgoogle.com)
+### 1- Six Revisions [link](https://www.webfx.com/blog/web-design/)
 
-> - **_Blog Description_** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+> - **_Blog Description_** I wouldn’t call Six Revisions a classical web development blog anymore, rather than a major news site for developers. Six Revisions publishes practical and useful articles for web developers and designers as well. Articles are published on a regular basis every 2-5 days.
 
 - ## Podcasts
 
