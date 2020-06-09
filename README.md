@@ -34,6 +34,10 @@
 
 > - **_Channel Description_** Will not keep beating around the bush. Will get straight to the point. Can't stand long tutorials? This is the channel for you! Has tutorials on varied topics like HTML, CSS, Vanilla Javascript, React, Node, MongoDB, SQL. He'll teach you designing and testing as well!
 
+### 6-  Edureka! Web Development complete course  [link](https://youtu.be/Q33KBiDriJY)
+
+> - **_Channel Description_** This Edureka Web Development Full Course video will help you understand and learn Web Development in detail. This Web Development Tutorial is ideal for both beginners as well as professionals who want to master Web Development technologies. It has covered topics like HTML, CSS, javascript, jQuery, Angular, React, Node, MERN. The description of this video also contain the links of detailed videos on the previous topics.
+
 ## Courses
 
 ### 1- The Complete 2020 Web Development Bootcamp [link](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
@@ -68,9 +72,13 @@
 
 > - **_Blog Description_** He writes about React and its ecosystem. He has a habit of sharing what he learns, trying to do it more via the written medium.
 
-### 1- Six Revisions [link](https://www.webfx.com/blog/web-design/)
+### 2- Six Revisions [link](https://www.webfx.com/blog/web-design/)
 
 > - **_Blog Description_** I wouldn’t call Six Revisions a classical web development blog anymore, rather than a major news site for developers. Six Revisions publishes practical and useful articles for web developers and designers as well. Articles are published on a regular basis every 2-5 days.
+
+### 3- Edureka Blogs [link](https://www.youtube.com/redirect?q=https%3A%2F%2Fbit.ly%2F34y8ipM&v=Q33KBiDriJY&redir_token=bGBjwyDI5Xy8TxRUyebgtUwlcvN8MTU5MTc3NjQ1OUAxNTkxNjkwMDU5&event=video_description)
+
+> - **_Blog Description_** There is description about javascript, jQuery, and a little bit of interview questions on Web development via written medium.
 
 - ## Podcasts
 
