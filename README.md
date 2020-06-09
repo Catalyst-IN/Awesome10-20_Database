@@ -1,12 +1,9 @@
-﻿## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
+﻿
 
-![Issues](https://img.shields.io/github/issues/Catalyst-IN/Awesome10-20_Database)
+## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
+![Issues](https://img.shields.io/github/issues/Catalyst-IN/Awesome10-20_Database) ![Pull Requests](https://img.shields.io/github/issues-pr/Catalyst-IN/Awesome10-20_Database) ![Forks](https://img.shields.io/github/forks/Catalyst-IN/Awesome10-20_Database) ![Stars](https://img.shields.io/github/stars/Catalyst-IN/Awesome10-20_Database) 
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Catalyst-IN)
 
-![Pull Requests](https://img.shields.io/github/issues-pr/Catalyst-IN/Awesome10-20_Database)
-
-![Forks](https://img.shields.io/github/forks/Catalyst-IN/Awesome10-20_Database)
-
-![Stars](https://img.shields.io/github/stars/Catalyst-IN/Awesome10-20_Database)
 
 <br>
 
@@ -182,6 +179,12 @@
 
 > - **_Blog Description_** Blog by Jason Brownlee. Jason started this blog because he is passionate about helping professional developers to get started and confidently apply machine learning to address complex problems. Frequency 3 posts / week
 
+
+- ## Podcasts
+- ### 1- Lex Fridman [link](https://www.youtube.com/user/lexfridman/about)
+
+> - **_Podcasts Description_** podcasts exploring research topics in artificial intelligence, deep learning, autonomous vehicles, and beyond.
+
 <br>
 
 <hr>
@@ -259,3 +262,4 @@ Licensed under the [MIT License](https://github.com/gatsbyjs/gatsby/blob/master/
 💜 **Thanks**
 
 Thanks to our many contributors.
+
