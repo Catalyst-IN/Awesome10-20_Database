@@ -51,6 +51,10 @@
 
 > - **_Course Description_** This is the best docs by mozilla developers for learning web development. MDN Docs has an excellent set of resources that can be used for development of web.
 
+### 5- Frontend Mentor [link](https://www.frontendmentor.io/)
+
+> - **_Course Description_** Course to improve HTML,CSS and JS skills by building real world projects.
+
 ## Books
 
 ### 1- HTML and CSS: Design and Build Websites [link](https://www.amazon.in/gp/product/1118008189/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1118008189&linkCode=as2&tag=geeksforgeeks-21&linkId=1aae1163f92073f557900653e78da520)
