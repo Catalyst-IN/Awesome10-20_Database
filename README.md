@@ -234,7 +234,12 @@
 
 ### 3- Gaurav Sen [link](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
-> - **_Channel Description_** Algorithms and System Design is a powerful combination! Here are some things he talk about: 1) Competitive programming 2) System design 3) Artificial intelligence.
+> - **_Channel Description_** I am tmwilliamlin168, a competitive programmer, a senior in high school, and I make random videos
+>   IOI 2019 Silver Codeforces Max Rating 2865 (International Grandmaster) CodeChef Max Rating 2916 (7 stars)
+
+### 4- William Lin [link](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+
+> - **_Channel Description_** Algorithms, competitive programming, coding interviews. He makes educational videos and coding live streams.
 
 - ## Courses
 
