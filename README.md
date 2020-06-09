@@ -29,6 +29,10 @@
 
 > - **_Channel Description_** Will not keep beating around the bush. Will get straight to the point. Can't stand long tutorials? This is the channel for you! Has tutorials on varied topics like HTML, CSS, Vanilla Javascript, React, Node, MongoDB, SQL. He'll teach you designing and testing as well!
 
+### 6-  Edureka! Web Development complete course  [link](https://youtu.be/Q33KBiDriJY)
+
+> - **_Channel Description_** This Edureka Web Development Full Course video will help you understand and learn Web Development in detail. This Web Development Tutorial is ideal for both beginners as well as professionals who want to master Web Development technologies. It has covered topics like HTML, CSS, javascript, jQuery, Angular, React, Node, MERN. The description of this video also contain the links of detailed videos on the previous topics.
+
 ## Courses
 
 ### 1- The Complete 2020 Web Development Bootcamp [link](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
@@ -63,9 +67,13 @@
 
 > - **_Blog Description_** He writes about React and its ecosystem. He has a habit of sharing what he learns, trying to do it more via the written medium.
 
-### 1- Six Revisions [link](https://www.webfx.com/blog/web-design/)
+### 2- Six Revisions [link](https://www.webfx.com/blog/web-design/)
 
 > - **_Blog Description_** I wouldn’t call Six Revisions a classical web development blog anymore, rather than a major news site for developers. Six Revisions publishes practical and useful articles for web developers and designers as well. Articles are published on a regular basis every 2-5 days.
+
+### 3- Edureka Blogs [link](https://www.youtube.com/redirect?q=https%3A%2F%2Fbit.ly%2F34y8ipM&v=Q33KBiDriJY&redir_token=bGBjwyDI5Xy8TxRUyebgtUwlcvN8MTU5MTc3NjQ1OUAxNTkxNjkwMDU5&event=video_description)
+
+> - **_Blog Description_** There is description about javascript, jQuery, and a little bit of interview questions on Web development via written medium.
 
 - ## Podcasts
 
@@ -165,6 +173,10 @@
 
 > - **_Course Description_** it is the best course for beginners it firstly make you learn basics of python and R then implementation of it in practical in python and R both as their are many projects which will help you to learn in easy manner.
 
+### 4- Introduction to Machine Learning for Coders! [link](http://course18.fast.ai/ml)
+
+> - **_Course Description_** it is the best course for beginners taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic). Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products.
+
 - ## Books
 
 ### 1- Hands on Machine Learning with scikit-learn keras and tensorflow (Aurelien Geron)[link]()
@@ -177,10 +189,32 @@
 
 > - **_Blog Description_** Blog by Jason Brownlee. Jason started this blog because he is passionate about helping professional developers to get started and confidently apply machine learning to address complex problems. Frequency 3 posts / week
 
+
 - ## Podcasts
 - ### 1- Lex Fridman [link](https://www.youtube.com/user/lexfridman/about)
 
 > - **_Podcasts Description_** podcasts exploring research topics in artificial intelligence, deep learning, autonomous vehicles, and beyond.
+
+- ## Academic Research Journals
+
+> - **_Important Papers_**
+ 
+
+ 1. https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+ 2. http://jmlr.org/papers/v15/delgado14a.html
+
+> - **_Keeping updated with Latest Research_**
+1. https://arxiv.org/ 
+2. http://www.arxiv-sanity.com/ (Very Useful resource. Automatically recommends new papers according to your interests)
+3. http://www.gitxiv.com/ (Source code of arxiv papers)
+
+> - **_Summary of good papers_**
+1. https://github.com/dennybritz/deeplearning-papernotes
+2. https://medium.com/paper-club
+3. https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg (Arxiv Insights)
+4. https://www.youtube.com/user/keeroyz (2 minutes papers)
+
+
 
 <br>
 
@@ -202,7 +236,12 @@
 
 ### 3- Gaurav Sen [link](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
-> - **_Channel Description_** Algorithms and System Design is a powerful combination! Here are some things he talk about: 1) Competitive programming 2) System design 3) Artificial intelligence.
+> - **_Channel Description_** I am tmwilliamlin168, a competitive programmer, a senior in high school, and I make random videos
+>   IOI 2019 Silver Codeforces Max Rating 2865 (International Grandmaster) CodeChef Max Rating 2916 (7 stars)
+
+### 4- William Lin [link](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+
+> - **_Channel Description_** Algorithms, competitive programming, coding interviews. He makes educational videos and coding live streams.
 
 - ## Courses
 
