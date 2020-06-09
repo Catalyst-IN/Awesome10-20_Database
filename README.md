@@ -170,6 +170,10 @@
 
 > - **_Course Description_** it is the best course for beginners it firstly make you learn basics of python and R then implementation of it in practical in python and R both as their are many projects which will help you to learn in easy manner.
 
+### 4- Introduction to Machine Learning for Coders! [link](http://course18.fast.ai/ml)
+
+> - **_Course Description_** it is the best course for beginners taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic). Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products.
+
 - ## Books
 
 ### 1- Hands on Machine Learning with scikit-learn keras and tensorflow (Aurelien Geron)[link]()
@@ -181,6 +185,26 @@
 ### 1- Machine Learning Mastery [link](https://machinelearningmastery.com/blog/)
 
 > - **_Blog Description_** Blog by Jason Brownlee. Jason started this blog because he is passionate about helping professional developers to get started and confidently apply machine learning to address complex problems. Frequency 3 posts / week
+
+- ## Academic Research Journals
+
+> - **_Important Papers_**
+ 
+
+ 1. https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+ 2. http://jmlr.org/papers/v15/delgado14a.html
+
+> - **_Keeping updated with Latest Research_**
+1. https://arxiv.org/ 
+2. http://www.arxiv-sanity.com/ (Very Useful resource. Automatically recommends new papers according to your interests)
+3. http://www.gitxiv.com/ (Source code of arxiv papers)
+
+> - **_Summary of good papers_**
+1. https://github.com/dennybritz/deeplearning-papernotes
+2. https://medium.com/paper-club
+3. https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg (Arxiv Insights)
+4. https://www.youtube.com/user/keeroyz (2 minutes papers)
+
 
 <br>
 
