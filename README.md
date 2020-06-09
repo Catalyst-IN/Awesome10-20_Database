@@ -245,7 +245,6 @@
 > - **_Channel Description_** I am tmwilliamlin168, a competitive programmer, a senior in high school, and I make random videos
 >   IOI 2019 Silver Codeforces Max Rating 2865 (International Grandmaster) CodeChef Max Rating 2916 (7 stars)
 
-
 - ## Courses
 
 ### 1- Competitive Programmer's Core Skills [link](https://www.coursera.org/learn/competitive-programming-core-skills)
