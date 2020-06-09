@@ -1,12 +1,7 @@
 ﻿## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
 
-![Issues](https://img.shields.io/github/issues/Catalyst-IN/Awesome10-20_Database)
-
-![Pull Requests](https://img.shields.io/github/issues-pr/Catalyst-IN/Awesome10-20_Database)
-
-![Forks](https://img.shields.io/github/forks/Catalyst-IN/Awesome10-20_Database)
-
-![Stars](https://img.shields.io/github/stars/Catalyst-IN/Awesome10-20_Database)
+![Issues](https://img.shields.io/github/issues/Catalyst-IN/Awesome10-20_Database) ![Pull Requests](https://img.shields.io/github/issues-pr/Catalyst-IN/Awesome10-20_Database) ![Forks](https://img.shields.io/github/forks/Catalyst-IN/Awesome10-20_Database) ![Stars](https://img.shields.io/github/stars/Catalyst-IN/Awesome10-20_Database)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Catalyst-IN)
 
 <br>
 
@@ -34,7 +29,7 @@
 
 > - **_Channel Description_** Will not keep beating around the bush. Will get straight to the point. Can't stand long tutorials? This is the channel for you! Has tutorials on varied topics like HTML, CSS, Vanilla Javascript, React, Node, MongoDB, SQL. He'll teach you designing and testing as well!
 
-### 6-  Edureka! Web Development complete course  [link](https://youtu.be/Q33KBiDriJY)
+### 6- Edureka! Web Development complete course [link](https://youtu.be/Q33KBiDriJY)
 
 > - **_Channel Description_** This Edureka Web Development Full Course video will help you understand and learn Web Development in detail. This Web Development Tutorial is ideal for both beginners as well as professionals who want to master Web Development technologies. It has covered topics like HTML, CSS, javascript, jQuery, Angular, React, Node, MERN. The description of this video also contain the links of detailed videos on the previous topics.
 
@@ -194,25 +189,30 @@
 
 > - **_Blog Description_** Blog by Jason Brownlee. Jason started this blog because he is passionate about helping professional developers to get started and confidently apply machine learning to address complex problems. Frequency 3 posts / week
 
+- ## Podcasts
+- ### 1- Lex Fridman [link](https://www.youtube.com/user/lexfridman/about)
+
+> - **_Podcasts Description_** podcasts exploring research topics in artificial intelligence, deep learning, autonomous vehicles, and beyond.
+
 - ## Academic Research Journals
 
 > - **_Important Papers_**
- 
 
- 1. https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
- 2. http://jmlr.org/papers/v15/delgado14a.html
+1.  https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+2.  http://jmlr.org/papers/v15/delgado14a.html
 
 > - **_Keeping updated with Latest Research_**
-1. https://arxiv.org/ 
+
+1. https://arxiv.org/
 2. http://www.arxiv-sanity.com/ (Very Useful resource. Automatically recommends new papers according to your interests)
 3. http://www.gitxiv.com/ (Source code of arxiv papers)
 
 > - **_Summary of good papers_**
+
 1. https://github.com/dennybritz/deeplearning-papernotes
 2. https://medium.com/paper-club
 3. https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg (Arxiv Insights)
 4. https://www.youtube.com/user/keeroyz (2 minutes papers)
-
 
 <br>
 
