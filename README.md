@@ -1,3 +1,4 @@
+
 ﻿## -> This is **_Awesome 10-20_**. A database of all the resources about any topic you desire.
 
 ![Issues](https://img.shields.io/github/issues/Catalyst-IN/Awesome10-20_Database) ![Pull Requests](https://img.shields.io/github/issues-pr/Catalyst-IN/Awesome10-20_Database) ![Forks](https://img.shields.io/github/forks/Catalyst-IN/Awesome10-20_Database) ![Stars](https://img.shields.io/github/stars/Catalyst-IN/Awesome10-20_Database)
@@ -5,7 +6,14 @@
 
 <br>
 
-# `Web Development` </u>
+# Index
+ * [Web Development](#web-development)
+ * [iOS Development](#ios-development) 
+ * [Machine Learning](#machine-learning)
+ * [Competitive Programming](#competitive-programming)
+
+
+# Web Development 
 
 - ## Youtube Channels
 
@@ -89,7 +97,8 @@
 
 <br>
 
-# `iOS Development` </u>
+**[⬆ Back to Index](#index)**
+# iOS Development 
 
 - ## Youtube Channels
 
@@ -151,7 +160,9 @@
 
 <br>
 
-# `Machine Learning` </u>
+
+**[⬆ Back to Index](#index)**
+# Machine Learning 
 
 - ## Youtube Channels
 
@@ -224,7 +235,8 @@
 
 <br>
 
-# `Competitive Programming` </u>
+**[⬆ Back to Index](#index)**
+# Competitive Programming
 
 - ## Youtube Channels
 
@@ -269,6 +281,8 @@
 
 <br>
 
+
+**[⬆ Back to Index](#index)**
 ## 🤝 How to Contribute
 
 ### For sending PR:-
