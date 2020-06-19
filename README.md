@@ -42,6 +42,21 @@
 
 > - **_Channel Description_** This Edureka Web Development Full Course video will help you understand and learn Web Development in detail. This Web Development Tutorial is ideal for both beginners as well as professionals who want to master Web Development technologies. It has covered topics like HTML, CSS, javascript, jQuery, Angular, React, Node, MERN. The description of this video also contain the links of detailed videos on the previous topics.
 
+
+### 6- Colt Steele !  [link](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+
+> - **_Channel Description_** Colt Steele is no unknown name in the Web Develoment Industry. From having a community of more than 802,672+ students just on his Udemy courses. He also uploads some top notch educative cintent for free on his YoubeTube channels covering topics including HTML,CSS,JavaScript, Webpacak and more. More sure to stay subscribed to get the notifications to all his new videos. He is known to make hard topics in the world of JS look easy. 
+
+
+### 7- Wes Bos !  [link](https://www.youtube.com/user/wesbos?app=desktop)
+
+> - **_Channel Description_** Wes Bos is a highly respected developer known for his top notch knowledge about all things Web. His YouTube Channel holds a plethora of content to learn from and has the best avaiable tutorails to make your JavaScript knowledge go from zero to hero.
+
+### 7- Net Ninja !  [link](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+> - **_Channel Description_** Net Ninja hosts tutorials on all things related to Web. His Youtube COntent is known for having the best content with topics covering all the way from Front End Technologies like HTML,CSS,JavaScript,React,Vue and even Backend Technologies like Node.js, PHP, Express, Deno, Firebase  and even more. He also cover ton of content on Flutter to help you get started on Mobile Based Applications if needed. 
+
+
 ## Courses
 
 ### 1- The Complete 2020 Web Development Bootcamp [link](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
